@@ -1,0 +1,5 @@
+2023-09-20 23:22:57,322 - root - DEBUG - This is a debug message
+2023-09-20 23:22:57,322 - root - INFO - This is an info message
+2023-09-20 23:22:57,323 - root - WARNING - This is a warning message
+2023-09-20 23:22:57,323 - root - ERROR - This is an error message
+2023-09-20 23:22:57,323 - root - CRITICAL - This is a critical message
